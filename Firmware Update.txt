@@ -1,0 +1,2 @@
+Base uf2 firmware file for MCU bootloader
+Bootloader and MCU are nRF52840 Nice!Nano_v2
